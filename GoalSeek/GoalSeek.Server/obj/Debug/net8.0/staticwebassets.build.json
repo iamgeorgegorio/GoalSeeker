@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "QEt/TTiMPhM6K0+w8TnUqW0faayqpjxIz1xwB2Xiick=",
+  "Source": "GoalSeek.Server",
+  "BasePath": "_content/GoalSeek.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\ali.f\\source\\repos\\Dash\\GoalSeek\\goalseek.client\\goalseek.client.esproj",
+      "Version": 2,
+      "Source": "goalseek.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

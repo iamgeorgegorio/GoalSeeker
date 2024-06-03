@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\ali.f\\source\\repos\\Dash\\GoalSeek\\GoalSeek.Server\\..\\goalseek.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
